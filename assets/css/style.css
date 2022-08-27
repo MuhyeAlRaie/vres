@@ -431,8 +431,9 @@ h6 {
 
 #hero .container {
   position: absolute;
-  padding-top: 74px;
-  text-align: center;
+  padding-top: 100
+px;
+  text-align: left;
 }
 
 #hero h1 {
@@ -1546,7 +1547,7 @@ section {
   display: inline-block;
   padding: 1.2em 2em;
   text-decoration: none;
-  text-align: left;
+  text-align: center;
   cursor: pointer;
   user-select: none;
   color: white;
