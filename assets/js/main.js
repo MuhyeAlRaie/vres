@@ -292,7 +292,7 @@
 })()
 
 const docStyle = document.documentElement.style
-const aElem = document.querySelector('.icon-box a')
+const aElem = document.querySelector('.icon-box #BtnGo')
 const boundingClientRect = aElem.getBoundingClientRect()
 
 aElem.onmousemove = function(e) {
