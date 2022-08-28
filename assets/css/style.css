@@ -1484,6 +1484,7 @@ section {
   left: 0;
   bottom: 0;
   right: 0;
+  margin-top: 0px;
   background: linear-gradient(135deg, #0EAB8D, #31C5F4);
   border-radius: 4px;
   transition: box-shadow 0.5s ease, transform 0.2s ease;
