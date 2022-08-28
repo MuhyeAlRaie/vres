@@ -439,6 +439,7 @@ px;
 section {
   padding: 60px 0;
   overflow: hidden;
+  background: #000000;
 }
 
 .section-title {
@@ -462,7 +463,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #ffffff;
+  background: #31C5F4;
   margin: 4px 10px;
 }
 
