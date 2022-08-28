@@ -454,7 +454,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #aaaaaa;
+  color: #d8d8d8;
   font-family: "Poppins", sans-serif;
 }
 
@@ -474,7 +474,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #151515;
+  color: #d8d8d8;
 }
 
 /*--------------------------------------------------------------
@@ -484,25 +484,25 @@ section {
   font-weight: 700;
   font-size: 28px;
   font-family: "Poppins", sans-serif;
+  color: #ffffff;
 }
 
-.about .content ul {
-  list-style: none;
-  padding: 0;
+.about .content h2 { 
+
+  font-weight: 700;
+  font-size: 24px;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
 }
 
-.about .content ul li {
-  padding: 0 0 8px 26px;
-  position: relative;
+.about .content p {
+
+  color: #d8d8d8;
 }
 
-.about .content ul i {
-  position: absolute;
-  font-size: 20px;
-  left: 0;
-  top: -3px;
-  color: #0EAB8D;
-}
+
+
+
 
 .about .content p:last-child {
   margin-bottom: 0;
@@ -559,6 +559,7 @@ section {
   font-size: 20px;
   font-weight: 700;
   margin: 5px 0 10px 60px;
+  color: #0EAB8D;
 }
 
 .features .icon-box i {
@@ -569,7 +570,7 @@ section {
 
 .features .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #d8d8d8;
   margin-left: 60px;
 }
 
@@ -1059,7 +1060,7 @@ section {
 # Team
 --------------------------------------------------------------*/
 .team {
-  background: #fff;
+  background: #000000;
   padding: 60px 0;
 }
 
@@ -1067,7 +1068,7 @@ section {
   margin-bottom: 20px;
   overflow: hidden;
   border-radius: 5px;
-  background: #fff;
+  background: #31C5F4;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
 }
 
@@ -1126,7 +1127,7 @@ section {
   display: block;
   font-size: 13px;
   font-weight: 400;
-  color: #aaaaaa;
+  color: #ffffff;
 }
 
 .team .member .member-info p {
@@ -1146,7 +1147,7 @@ section {
 --------------------------------------------------------------*/
 .contact .info {
   width: 100%;
-  background: #fff;
+  background: rgb(0, 0, 0);
 }
 
 .contact .info i {
@@ -1168,7 +1169,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #151515;
+  color: #ffffff;
 }
 
 .contact .info p {
