@@ -496,7 +496,7 @@ section {
 }
 
 .about .content p {
-
+  font-family: 'Oswald', sans-serif !important;;
   color: #d8d8d8;
 }
 
