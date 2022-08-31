@@ -435,6 +435,7 @@ width: 1920px;;
     font-size: 20px;
     line-height: 24px;
   }
+
 }
 
 /*--------------------------------------------------------------
@@ -1477,6 +1478,12 @@ section {
   font-size: 13px;
   color: #fff;
 }
+#footer #SoftLogo {
+  padding: 5px;
+  height: 75px;
+  width: 100px;
+}
+
 
 .icon-box #BtnGo {
   position: absolute;
