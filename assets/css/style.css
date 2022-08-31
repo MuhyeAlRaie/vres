@@ -381,8 +381,7 @@ h6 {
 
 #hero .container {
   position: absolute;
-  padding-top: 100
-px;
+  padding-top: 100px;
   text-align: left;
 }
 
@@ -411,6 +410,9 @@ px;
 
 #hero .icon-box:hover {
   border-color: #000000;
+}
+#videobcg {
+width: 1920px;;
 }
 
 @media (min-width: 1024px) {
