@@ -621,14 +621,12 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 24px;
-}
-
-.services .icon-box h4 a {
   color: #343333;
   transition: ease-in-out 0.3s;
 }
 
-.services .icon-box h4 a:hover {
+
+.services .icon-box h4:hover {
   color: #0EAB8D;
 }
 
